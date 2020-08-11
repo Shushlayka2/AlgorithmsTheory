@@ -1,0 +1,6 @@
+lion deer
+wolf deer
+bear wolf
+rabbit lion
+deer bear
+lion lion
